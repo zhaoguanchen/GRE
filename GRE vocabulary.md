@@ -6,9 +6,9 @@ double back     沿原路折回
 
 ## 3.11
 
-frugality			吝啬 节俭		
-miserliness		贪婪 吝啬	
-refractory			难治的	
+frugality			吝啬 节俭			
+miserliness		贪婪 吝啬		
+refractory			难治的		
 underlying		潜在的	
 undermine		破坏 渐渐破坏		
 Aria				咏叹调		
